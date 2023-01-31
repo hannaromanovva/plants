@@ -1,0 +1,22 @@
+   font-weight: 700;
+    font-size: 40px;
+    font-family: 'Inter', sans-serif;
+}
+
+.wrapper_container_text_right {
+    width: 452px;
+    height: 190px;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.wrapper_container_photo_right {
+    width: 152px;
+    height: 175px;
+}
+
+.wrapper_container_all {
+    width: 452px;
+    height: 40
